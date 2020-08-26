@@ -1,6 +1,13 @@
 # Site
 title:              Disco Tray Studios
-bio:                'put mission statement here (config)'
+bio:                'Disco Tray Studios is a community-focused software development 
+initiative at Hendrix College in Conway, Arkansas. We are five 
+students led by Associate Professor of Computer Science, Dr.
+Mark Goadrich. This project aims to empower students in
+developing interactive educational games for social good and 
+provide opportunities for student to execute and complete
+longer-term software developmen projects that support the
+technological needs of the local community.'
 description:        "put description here (config)"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,15 +18,14 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            disco_tray
+facebook:           discotraystudios
+github:             DiscoTrayStudios
 
 # personal
 location:           Conway, AR
 #phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              discotraystudios@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/sparkle.jpg
