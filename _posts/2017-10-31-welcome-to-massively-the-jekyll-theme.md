@@ -3,7 +3,7 @@ layout: post
 title:  A Look Into Disco Tray Studios
 date:   2020-08-26
 excerpt: An overview of the plan for this project
-image: "/images/pic02.jpg"
+image: "/images/bland logo.png"
 ---
 
 ## Goals for the Studio
