@@ -4,7 +4,7 @@ title: About our Team
 description: descriptions and pictures of the team members
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2020-08-26
     changefreq: weekly
 ---
 ## About our Team
@@ -21,7 +21,7 @@ sitemap:
         <h4> Innocent Nsabimana </h4>
       </div>
        <div class="4u 12u$(small)">
-       <h4> Broccoli Headed Ass Bitch - Bea Bowman </h4>
+       <h4> Griffith Samore </h4>
       </div>
       
   
